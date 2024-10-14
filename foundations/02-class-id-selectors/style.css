@@ -1,0 +1,24 @@
+.class1,.class2,.class3 {
+    background-color: pink;
+    font-family: "Verdana", "DejaVu Sans","sans-serif";
+}
+
+.class2 {
+    font-size: 24px;
+}
+
+.background-color {
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
+#num1 {
+    color: blue;
+    font-size: 36px;
+}
+
+#num2{
+    font-size: 24px;
+    background-color: rgb(124, 241, 122);
+    font-weight:bold
+}
