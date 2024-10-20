@@ -1,0 +1,3 @@
+[submodule "foundations2/foundations2/css-exercises"]
+	path = foundations2/foundations2/css-exercises
+	url = git@github.com:jayferjoy/css-exercises.git
